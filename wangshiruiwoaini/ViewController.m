@@ -18,6 +18,7 @@
     [super viewDidLoad];
     
     NSLog(@"第一次保存");
+    NSLog(@"第二次保存");
     // Do any additional setup after loading the view, typically from a nib.
 }
 
